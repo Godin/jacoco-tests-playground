@@ -8,6 +8,7 @@ public class Test {
     JDK7024096.fun();
     Switch.fun(0);
     MethodReference.fun();
+    CFG.fun();
   }
 
 }
